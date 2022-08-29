@@ -29,38 +29,38 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'apikeylu',
-  'https://api.xteam.xyz': 'apikeylu',
-  'https://melcanz.com': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
+  'https://melcanz.com': 'melcantik',
+  'https://api.lolhuman.xyz': 'jokowi3periode',
   'https://zahirr-web.herokuapp.com': 'apikeylu',
-  'https://api.zeks.me': 'apikeylu',
-  'https://pencarikode.xyz': 'apikeylu',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'apikeylu',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://api.adiofficial.xyz': 'apikeylu'
 }
 
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
-global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
+global.wait = '_*Sedang di proses...*_'
+global.eror = '_*Maaf server tidak stabil...*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/balhisyhrl"
+global.urlnya = "https://www.instagram.com/eabdalmufid_"
 global.gcbot = 'ɢʀᴏᴜᴩ ʙᴏᴛ'
-global.gcurl = "https://chat.whatsapp.com/xxxxxxxxx"
+global.gcurl = "https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 8156299020'
+global.phn = '+62 8954119543956'
 global.kontakOwn = [
-  ['6285156299020', 'Bal', 'Owner ʙᴏᴛ', 'bal@balhis.codes', true],
-  ['6285156299020', 'Iqbal', 'Owner ʙᴏᴛ', 'bal@balhis.codes', true],
+  ['628954119543956', 'Bal', 'Owner ʙᴏᴛ', 'bal@balhis.codes', true],
+  ['628954119543956', 'Iqbal', 'Owner ʙᴏᴛ', 'bal@balhis.codes', true],
 ]
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.dikit = "Dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
