@@ -2,10 +2,9 @@ let handler = async (m, { conn, usedPrefix }) => {
 conn.sendButton(m.chat, `
 ╭─「 *DONASI* 」
 │ > Ingin donasi ke BOT?
-│ > Paypal : https://paypal.me/balhisyhrl
-│ > Dana : 085156299020
-│ > Gopay : 085156299020
-│ > Perfect Money : U39360574
+│ > QRIS : https://bit.ly/QRISPAY
+│ > Dana : 089509952003
+│ > Gopay : 089509952003
 │ _Hasil donasi akan dipakai untuk membuat BOT ONLINE 24 JAM_
 ╰────
 ╭─「 *NOTE* 」
